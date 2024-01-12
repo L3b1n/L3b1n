@@ -83,11 +83,9 @@ Currently I'm studying at BSU FAMCS on the 3rd course.
 </a> -->
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=L3b1n&theme=chartreuse-dark&hide=prs"/>
-</a>
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=L3b1n&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320"/>
-</a> -->
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=L3b1n&theme=chartreuse-dark&hide=prs&show_icons=true&cache_seconds=1800&locale=en" alt="alekseykorshuk" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=L3b1n&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320"/>
+</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=L3b1n&label=Visitors&color=0e75b6&style=flat" alt="L3b1n" /> </p> -->
