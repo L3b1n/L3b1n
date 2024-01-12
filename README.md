@@ -23,16 +23,10 @@ Currently I'm studying at BSU FAMCS on the 3rd course.
 </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
 <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.ni.com/en/shop/labview.html" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40"/> 
-</a> 
+</a>
 <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -71,23 +65,20 @@ Currently I'm studying at BSU FAMCS on the 3rd course.
 </a> 
 <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
+</a>
 <a href="https://code.visualstudio.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-</a> 
+</a>
 <a href="https://developer.apple.com/xcode/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> 
-</a> 
-<a href="https://unity.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 </a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=L3b1n&theme=chartreuse-dark&hide=prs" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=L3b1n&theme=chartreuse-dark&hide=prs"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=L3b1n&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=L3b1n&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=L3b1n&label=Visitors&color=0e75b6&style=flat" alt="L3b1n" /> </p> -->
