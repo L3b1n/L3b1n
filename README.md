@@ -1,6 +1,6 @@
 <h1>Hi there 👋. I'm Leo</h1>
 <h3>A developer from Belarus</h3>
-Currently I'm studying at BSU FAMCS on the 3rd course.
+Currently I'm studying at BSU FAMCS on the 4rd course.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
