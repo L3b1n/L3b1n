@@ -4,6 +4,12 @@ Currently I'm studying at BSU FAMCS on the 4rd course.
 
 <h3 align="left">My resume: <a href="https://l3b1n.github.io" target="blank"> link</a></h3>
 
+<h3 align="left">Check my latest projects:</h3> 
+<a href="https://github.com/L3b1n/BackInfi" target="blank">BackInfi</a> — BackInfi is primarily an early-stage interactive application and rendering pipline that allows you to replace the background in portrait images and video on Windows. It is created by using ONNX Runtime inference and OpenGL (glad) post-processing rendering.
+<br><br>
+<a href="https://github.com/L3b1n/RayTracing" target="blank">RayTracing</a> — Ray tracing sample to learn ray tracing algorithm and Vulcan basics
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> -->
@@ -29,9 +35,12 @@ Currently I'm studying at BSU FAMCS on the 4rd course.
 <!-- <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a> -->
-<a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<a href="https://www.opengl.org" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/> 
 </a> 
+<a href="https://www.vulkan.org" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Vulkan_API_logo.svg" alt="vulkan" width="40" height="40"/>
+</a>
 <!-- <a href="https://www.ni.com/en/shop/labview.html" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" alt="labview" width="40" height="40"/> 
 </a>  -->
@@ -40,9 +49,6 @@ Currently I'm studying at BSU FAMCS on the 4rd course.
 </a>
 <a href="https://jupyter.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
-</a>
-<a href="https://www.kaggle.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> 
 </a>
 <a href="https://cmake.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/> 
