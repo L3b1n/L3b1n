@@ -7,7 +7,7 @@ Currently I'm studying at BSU FAMCS on the 4rd course.
 <h3 align="left">Check my latest projects:</h3> 
 <a href="https://github.com/L3b1n/BackInfi" target="blank">BackInfi</a> — BackInfi is primarily an early-stage interactive application and rendering pipline that allows you to replace the background in portrait images and video on Windows. It is created by using ONNX Runtime inference and OpenGL (glad) post-processing rendering.
 <br><br>
-<a href="https://github.com/L3b1n/RayTracing" target="blank">RayTracing</a> — Ray tracing sample to learn ray tracing algorithm and Vulcan basics
+<a href="https://github.com/L3b1n/RayTracing" target="blank">RayTracing</a> — Ray tracing sample to learn ray tracing algorithm and Vulkan basics
 
 
 <h3 align="left">Connect with me:</h3>
