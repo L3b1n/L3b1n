@@ -2,7 +2,7 @@
 <h3>A developer from Belarus</h3>
 Currently I'm studying at BSU FAMCS on the 4rd course.
 
-<h3 align="left">My resume: <a href="https://l3b1n.github.io" target="blank"> link</a></h3>
+<!-- <h3 align="left">My resume: <a href="https://l3b1n.github.io" target="blank"> link</a></h3> -->
 
 <h3 align="left">Check my latest projects:</h3> 
 <a href="https://github.com/L3b1n/BackInfi" target="blank">BackInfi</a> — BackInfi is primarily an early-stage interactive application and rendering pipline that allows you to replace the background in portrait images and video on Windows. It is created by using ONNX Runtime inference and OpenGL (glad) post-processing rendering.
